@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Comparator;
 
-public class StudentData {
+public class StudentDataHandler {
     private final ArrayList<Student> studentList = new ArrayList<>();
 
     public ArrayList<Student> getStudentList() {
