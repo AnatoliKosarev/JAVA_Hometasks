@@ -2,7 +2,7 @@ package org.example.java_classes.main_task;
 
 public enum Faculty {
 
-    PHYLOSOPHY("Философский"),
+    PHILOSOPHY("Философский"),
     PSYCHOLOGY("Психологии"),
     CHEMISTRY("Химический"),
     CYBERNETICS("Кибернетики");
